@@ -1,0 +1,10 @@
+*.csproj
+*.sln
+.gradle
+/ProjectSettings
+/Temp
+/obj
+/Logs
+/Library
+/BackupShit
+
